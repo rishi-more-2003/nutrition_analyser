@@ -3,5 +3,4 @@ easyocr==1.6.2
 opencv_python_headless==4.5.4.60
 pytesseract==0.3.10
 requests==2.27.1
-https://download.pytorch.org/whl/cpu/torch-1.1.0-cp37-cp37m-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.3.0-cp37-cp37m-linux_x86_64.whl
+install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
