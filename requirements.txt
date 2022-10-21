@@ -3,4 +3,4 @@ easyocr==1.6.2
 opencv_python_headless==4.5.4.60
 pytesseract==0.3.10
 requests==2.27.1
-https://download.pytorch.org/whl/cpu/torch_stable.html
+https://download.pytorch.org/whl/cu102/torch-1.9.1%2Bcu102-cp39-cp39-win_amd64.whl
