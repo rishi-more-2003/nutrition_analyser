@@ -1,3 +1,3 @@
-/food_viser/food_viser/static
-/food_viser/label_localization/retinanet_label_localization
-/food_viser/label_localization/yolov7_label_localization_runs
+/food_viser/static
+/label_localization/retinanet_label_localization
+/label_localization/yolov7_label_localization_runs
