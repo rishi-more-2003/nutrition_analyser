@@ -19,3 +19,5 @@ if settings.DEBUG:
     application = StaticFilesHandler(get_wsgi_application())
 else:
     application = get_wsgi_application()
+    
+#waitress-serve --listen=127.0.0.1 myapp.wsgi:application
