@@ -1,1 +1,1 @@
-web: gunicorn food_viser.wsgi:app
+web: gunicorn food_viser.wsgi
