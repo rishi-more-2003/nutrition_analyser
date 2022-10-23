@@ -1,5 +1,1 @@
-/label_localization/retinanet_label_localization
-/label_localization/yolov7_label_localization_runs
-/label_localization/yolov5_label_localization_runs/*.jpg
-/label_localization/yolov5_label_localization_runs/*.png
-/label_localization/*.ipynb
+
